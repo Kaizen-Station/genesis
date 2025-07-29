@@ -1,0 +1,31 @@
+- type: customGhost
+  id: gooseduck-ghost
+  ckey: gooseduck
+  sprite: /Textures/_KZ/CustomGhosts/gooseduck-ghost.rsi
+  alpha: 0.95
+  ghostName: gooseduck
+  ghostDescription: ДА
+
+- type: customGhost
+  id: konnorwhilhav-ghost
+  ckey: Konnor_Whilhav
+  sprite: /Textures/_KZ/CustomGhosts/konnorwhilhav-ghost.rsi
+  alpha: 0.95
+  ghostName: Konnor_Whilhav
+  ghostDescription: "C17.MPF.OFC #2810"
+
+- type: customGhost
+  id: whims-ghost
+  ckey: whims
+  sprite: /Textures/_KZ/CustomGhosts/gooseduck-ghost.rsi
+  alpha: 0.6
+  ghostName: Whims
+  ghostDescription: Вам кажется.
+
+- type: customGhost
+  id: raidgo-ghost
+  ckey: RaidGo
+  sprite: /Textures/_KZ/CustomGhosts/raidgo-ghost.rsi
+  alpha: 0.6
+  ghostName: RaidGo
+  ghostDescription:
