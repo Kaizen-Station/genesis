@@ -1,3 +1,46 @@
+- type: emote
+  id: Howl
+  name: chat-emote-name-howl
+  category: Vocal
+  whitelist:
+    requireAll: true
+    components:
+    - Vocal
+    tags:
+    - DogEmotes
+  icon: Interface/Emotes/Vocal/howl.png
+  chatMessages: [воет]
+  chatTriggers:
+    - воет
+    - воет.
+    - воет!
+
+- type: emote
+  id: Bark
+  name: chat-emote-name-bark
+  category: Vocal
+  whitelist:
+    requireAll: true
+    components:
+    - Vocal
+    tags:
+    - DogEmotes
+  icon: Interface/Emotes/Vocal/bark.png
+  chatMessages: [лает]
+  chatTriggers:
+    - лает
+    - лает.
+    - лает!
+    - гавкает
+    - гавкает.
+    - гавкает!
+    - гав
+    - гав.
+    - гав!
+    - рявкает
+    - рявкает.
+    - рявкает!
+
 # vocal emotes
 - type: emote
   id: Scream
