@@ -399,7 +399,7 @@
   - type: Sprite
     state: tape26
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/da-ge-mei.ogg"
+    sound: "/Audio/_KZ/TapePlayer/Tracks/DaGeMei.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -411,3 +411,49 @@
     state: tape32
   - type: MusicTape
     sound: "/Audio/_KZ/TapePlayer/Tracks/ticktock.ogg"
+
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape37
+  name: Кассета (XYXXYYYXXYX - 666)
+  description:
+  components:
+  - type: Sprite
+    state: tape12
+  - type: MusicTape
+    sound: "/Audio/_KZ/TapePlayer/Tracks/666.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape36
+  name: Кассета (Пират - Магнитофон)
+  description:
+  components:
+  - type: Sprite
+    state: tape2
+  - type: MusicTape
+    sound: "/Audio/Adventure/TapePlayer/Tracks/magnitofon.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape39
+  name: Кассета (Undertale - Fallen Down)
+  description:
+  components:
+  - type: Sprite
+    state: tape5
+  - type: MusicTape
+    sound: "/Audio/Adventure/TapePlayer/Tracks/fallen_down.ogg"
+
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape40
+  name: Кассета (MOON - Dust)
+  description:
+  components:
+  - type: Sprite
+    state: tape1
+  - type: MusicTape
+    sound: "/Audio/Adventure/TapePlayer/Tracks/dust.ogg"
