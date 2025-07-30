@@ -446,7 +446,6 @@
   - type: MusicTape
     sound: "/Audio/_KZ/TapePlayer/Tracks/fallen_down.ogg"
 
-
 - type: entity
   parent: BaseMusicTape
   id: MusicTape40
