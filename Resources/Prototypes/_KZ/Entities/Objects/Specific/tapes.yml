@@ -426,7 +426,7 @@
 
 - type: entity
   parent: BaseMusicTape
-  id: MusicTape36
+  id: MusicTape38
   name: Кассета (Пират - Магнитофон)
   description:
   components:
