@@ -433,7 +433,7 @@
   - type: Sprite
     state: tape2
   - type: MusicTape
-    sound: "/Audio/Adventure/TapePlayer/Tracks/magnitofon.ogg"
+    sound: "/Audio/_KZ/TapePlayer/Tracks/magnitofon.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -444,8 +444,7 @@
   - type: Sprite
     state: tape5
   - type: MusicTape
-    sound: "/Audio/Adventure/TapePlayer/Tracks/fallen_down.ogg"
-
+    sound: "/Audio/_KZ/TapePlayer/Tracks/fallen_down.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -456,4 +455,4 @@
   - type: Sprite
     state: tape1
   - type: MusicTape
-    sound: "/Audio/Adventure/TapePlayer/Tracks/dust.ogg"
+    sound: "/Audio/_KZ/TapePlayer/Tracks/dust.ogg"
