@@ -114,3 +114,5 @@ JobTechnicalAssistant = технический ассистент
 JobVisitor = посетитель
 JobWarden = смотритель
 JobZookeeper = зоотехник
+
+job-name-blueshield = Офицер «Синий Щит»

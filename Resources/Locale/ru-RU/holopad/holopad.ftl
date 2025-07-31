@@ -60,6 +60,7 @@ holopad-command-qm = Командование — КМ
 holopad-command-ce = Командование — СИ
 holopad-command-rd = Командование — НР
 holopad-command-hos = Командование — ГСБ
+holopad-command-blueshield = Командование — ОСЩ
 # Science
 holopad-science-anomaly = Научный — Аномалистика
 holopad-science-artifact = Научный — Ксеноархеология
