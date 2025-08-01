@@ -11,7 +11,7 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: _KZ/Objects/Devices/tapes.rsi
+    sprite: _GS/Objects/Devices/tapes.rsi
   - type: Tag
     tags:
     - MusicTape
@@ -25,7 +25,7 @@
   - type: Sprite
     state: tape14
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/piggies.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/piggies.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -36,7 +36,7 @@
   - type: Sprite
     state: tape27
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/heartbeat.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/heartbeat.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -47,7 +47,7 @@
   - type: Sprite
     state: tape5
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/podlaia.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/podlaia.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -58,7 +58,7 @@
   - type: Sprite
     state: tape32
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/70K.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/70K.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -69,7 +69,7 @@
   - type: Sprite
     state: tape19
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/BlankShell.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/BlankShell.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -80,7 +80,7 @@
   - type: Sprite
     state: tape8
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/GeneralRelease.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/GeneralRelease.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -91,7 +91,7 @@
   - type: Sprite
     state: tape23
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/ch4_credits.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/ch4_credits.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -102,7 +102,7 @@
   - type: Sprite
     state: tape35
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/church_lw_night.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/church_lw_night.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -113,7 +113,7 @@
   - type: Sprite
     state: tape11
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/church_wip.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/church_wip.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -124,7 +124,7 @@
   - type: Sprite
     state: tape3
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/church_zone3.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/church_zone3.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -135,7 +135,7 @@
   - type: Sprite
     state: tape17
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/knight.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/knight.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -146,7 +146,7 @@
   - type: Sprite
     state: tape29
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/rain.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/rain.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -157,7 +157,7 @@
   - type: Sprite
     state: tape7
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/rudebuster_boss.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/rudebuster_boss.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -168,7 +168,7 @@
   - type: Sprite
     state: tape21
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/bounty_hunter.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/bounty_hunter.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -179,7 +179,7 @@
   - type: Sprite
     state: tape12
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/chsv.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/chsv.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -190,7 +190,7 @@
   - type: Sprite
     state: tape30
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/dead_inside.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/dead_inside.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -201,7 +201,7 @@
   - type: Sprite
     state: tape4
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/esli_bi_bog.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/esli_bi_bog.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -212,7 +212,7 @@
   - type: Sprite
     state: tape16
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/eto_ne_tot_trek.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/eto_ne_tot_trek.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -223,7 +223,7 @@
   - type: Sprite
     state: tape9
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/eto_pank_rock.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/eto_pank_rock.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -234,7 +234,7 @@
   - type: Sprite
     state: tape24
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/eva.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/eva.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -245,7 +245,7 @@
   - type: Sprite
     state: tape1
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/kak_na_voyne.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/kak_na_voyne.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -256,7 +256,7 @@
   - type: Sprite
     state: tape33
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/komanda_vinovata.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/komanda_vinovata.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -267,7 +267,7 @@
   - type: Sprite
     state: tape25
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/onstanovite_katku.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/onstanovite_katku.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -278,7 +278,7 @@
   - type: Sprite
     state: tape6
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/otmenil_tp.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/otmenil_tp.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -289,7 +289,7 @@
   - type: Sprite
     state: tape18
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/Pauza.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/Pauza.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -300,7 +300,7 @@
   - type: Sprite
     state: tape31
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/pesnya_v_podderzku.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/pesnya_v_podderzku.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -311,7 +311,7 @@
   - type: Sprite
     state: tape2
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/piter.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/piter.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -322,7 +322,7 @@
   - type: Sprite
     state: tape15
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/pluys_moral.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/pluys_moral.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -333,7 +333,7 @@
   - type: Sprite
     state: tape20
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/svinyua.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/svinyua.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -344,7 +344,7 @@
   - type: Sprite
     state: tape10
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/travoman.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/travoman.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -355,7 +355,7 @@
   - type: Sprite
     state: tape34
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/v_etoi_trave.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/v_etoi_trave.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -366,7 +366,7 @@
   - type: Sprite
     state: tape13
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/zombi_apocalypse.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/zombi_apocalypse.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -377,7 +377,7 @@
   - type: Sprite
     state: tape28
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/RedSunInTheSky.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/RedSunInTheSky.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -388,7 +388,7 @@
   - type: Sprite
     state: tape22
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/8shi.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/8shi.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -399,7 +399,7 @@
   - type: Sprite
     state: tape26
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/DaGeMei.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/DaGeMei.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -410,7 +410,7 @@
   - type: Sprite
     state: tape32
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/ticktock.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/ticktock.ogg"
 
 
 - type: entity
@@ -422,7 +422,7 @@
   - type: Sprite
     state: tape12
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/666.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/666.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -433,7 +433,7 @@
   - type: Sprite
     state: tape2
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/magnitofon.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/magnitofon.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -444,7 +444,7 @@
   - type: Sprite
     state: tape5
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/fallen_down.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/fallen_down.ogg"
 
 - type: entity
   parent: BaseMusicTape
@@ -455,4 +455,4 @@
   - type: Sprite
     state: tape1
   - type: MusicTape
-    sound: "/Audio/_KZ/TapePlayer/Tracks/dust.ogg"
+    sound: "/Audio/_GS/TapePlayer/Tracks/dust.ogg"
