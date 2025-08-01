@@ -1,0 +1,9 @@
+- type: entity
+  name: станционный маяк
+  description: Небольшое устройство, передающее информацию на карты станций. Может быть сконфигурировано.
+  parent: DefaultStationBeaconCommand
+  id: DefaultStationBeaconBS
+  suffix: ОСЩ
+  components:
+  - type: NavMapBeacon
+    defaultText: station-beacon-blueshield
