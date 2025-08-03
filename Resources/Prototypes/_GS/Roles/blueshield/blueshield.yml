@@ -22,7 +22,6 @@
     - !type:SpeciesRequirement
       inverted: true
       species:
-      - Synth
       - Zerah
       - PigMan
       - Vox

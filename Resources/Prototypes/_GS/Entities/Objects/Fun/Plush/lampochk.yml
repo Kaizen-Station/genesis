@@ -6,10 +6,10 @@
   description: Лампочка, или же... Солнце...
   components:
   - type: Sprite
-    sprite: _KZ/Objects/plush/lampochk.rsi
+    sprite: _GS/Objects/plush/lampochk.rsi
     state: icon
   - type: Item
-    sprite: _KZ/Objects/plush/lampochk.rsi
+    sprite: _GS/Objects/plush/lampochk.rsi
   - type: EmitSoundOnUse
     sound:
       collection: lampchk
